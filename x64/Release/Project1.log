@@ -1,0 +1,7 @@
+﻿  test.cpp
+test.cpp(22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+test.cpp(29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  All 238 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> C:\Users\Administrator\source\repos\Project1\x64\Release\Project1.exe
